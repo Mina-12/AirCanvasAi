@@ -1,0 +1,31 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local configuration, credentials, and tool state
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.sf/
+
+# Temporary files and generated drawings
+temp/
+tmp/
+output/*.png
+!output/.gitkeep
