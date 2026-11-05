@@ -61,3 +61,8 @@ Drawings are saved as timestamped PNG files under `output/`.
 - If gestures are inconsistent, use the visible buttons and keyboard shortcuts; no gesture is required to pause, return to drawing, undo, clear, or save.
 - The camera is started only when requested and is released when stopped or when the window closes.
 - Verify camera behavior and gesture comfort on the target laptop; unit tests do not require a webcam.
+
+## Screenshot
+
+![AirCanvas AI application preview](assets/aircanvas-preview.png)
+
